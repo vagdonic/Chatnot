@@ -17,4 +17,4 @@ const MyMessage = ({ message }) => {
     )
 }
 
-export default MyMessage;
+export default MyMessage
